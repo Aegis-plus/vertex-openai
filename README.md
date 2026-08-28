@@ -74,7 +74,7 @@ flowchart LR
 Clone this repository and ensure Wrangler is ready:
 
 ```bash
-git clone https://github.com/your-username/vertex-openai.git
+git clone https://github.com/aegis-plus/vertex-openai.git
 cd vertex-openai
 ```
 
